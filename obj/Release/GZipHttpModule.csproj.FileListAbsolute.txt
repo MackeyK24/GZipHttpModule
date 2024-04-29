@@ -1,0 +1,6 @@
+C:\Users\Macke\source\repos\GZipHttpModule\GZipHttpModule\bin\Release\GZipHttpModule.dll
+C:\Users\Macke\source\repos\GZipHttpModule\GZipHttpModule\bin\Release\GZipHttpModule.pdb
+C:\Users\Macke\source\repos\GZipHttpModule\GZipHttpModule\obj\Release\GZipHttpModule.csproj.AssemblyReference.cache
+C:\Users\Macke\source\repos\GZipHttpModule\GZipHttpModule\obj\Release\GZipHttpModule.csproj.CoreCompileInputs.cache
+C:\Users\Macke\source\repos\GZipHttpModule\GZipHttpModule\obj\Release\GZipHttpModule.dll
+C:\Users\Macke\source\repos\GZipHttpModule\GZipHttpModule\obj\Release\GZipHttpModule.pdb
